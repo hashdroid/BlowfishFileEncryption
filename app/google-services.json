@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1057521326955",
+    "firebase_url": "https://blowfishfirebaseproject.firebaseio.com",
+    "project_id": "blowfishfirebaseproject",
+    "storage_bucket": "blowfishfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057521326955:android:3f89e2ed15fd6138",
+        "android_client_info": {
+          "package_name": "com.flashpoint.mitto.aes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057521326955-lv1o6k77lqteotsugrvm4p0iribs6938.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flashpoint.mitto.aes",
+            "certificate_hash": "43173cb7886d8007e8dd7f87056cb21c5295c5f6"
+          }
+        },
+        {
+          "client_id": "1057521326955-tukdjkd8q4c271vb8c6jhu6cglrmt3l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8jqByEikpu-J6jgQUi1QrWwAfSJBWBQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057521326955-tukdjkd8q4c271vb8c6jhu6cglrmt3l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
